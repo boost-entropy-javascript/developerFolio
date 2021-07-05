@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6181287ef30d9a4883747561425fc94",
+    "revision": "f747267d9d50b1fa655ebc458634058e",
     "url": "/index.html"
   },
   {
-    "revision": "42c7353da40a4b46b07f",
-    "url": "/static/css/3.00373544.chunk.css"
+    "revision": "ec93f3bbbc3a4db2d2a3",
+    "url": "/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "459d25d30942fcfa6af7",
-    "url": "/static/css/4.3e7d09e6.chunk.css"
+    "revision": "8ed895e54bb77624f8c2",
+    "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "df3cc4bd049f68ea6047",
-    "url": "/static/css/main.207db4cf.chunk.css"
+    "revision": "5ad34e6c61eab3100007",
+    "url": "/static/css/main.02a41b25.chunk.css"
   },
   {
     "revision": "e4aa5fa05cd75b7637b3",
@@ -24,32 +24,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a0c762e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42c7353da40a4b46b07f",
-    "url": "/static/js/3.f1d58ae8.chunk.js"
+    "revision": "ec93f3bbbc3a4db2d2a3",
+    "url": "/static/js/3.d5af6379.chunk.js"
   },
   {
-    "revision": "459d25d30942fcfa6af7",
-    "url": "/static/js/4.e0129356.chunk.js"
+    "revision": "8ed895e54bb77624f8c2",
+    "url": "/static/js/4.22715ad6.chunk.js"
   },
   {
-    "revision": "df3cc4bd049f68ea6047",
-    "url": "/static/js/main.988111c5.chunk.js"
+    "revision": "5ad34e6c61eab3100007",
+    "url": "/static/js/main.a95771c7.chunk.js"
   },
   {
-    "revision": "9af23b5a254365ca52c2",
-    "url": "/static/js/runtime-main.ab3d91fe.js"
+    "revision": "53b010a00d6e8792215e",
+    "url": "/static/js/runtime-main.33e8bd0a.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/static/media/Agustina.21f233e1.woff"
+    "revision": "a3752c4bf72688b3db38d0911cf75f61",
+    "url": "/static/media/Agustina.a3752c4b.woff"
   },
   {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+    "revision": "847627bffd52aab57ce2e903f144e07f",
+    "url": "/static/media/Montserrat-Regular.847627bf.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
+    "revision": "5e92ece193b7328eeafae7082abb5a8f",
+    "url": "/static/media/airbnbLogo.5e92ece1.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
+    "revision": "4cc9fd84110d1bbc2e5b57b3bb1dad16",
+    "url": "/static/media/facebookLogo.4cc9fd84.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
+    "revision": "f96a8e20b8a99ab3610716c2f54222cb",
+    "url": "/static/media/harvardLogo.f96a8e20.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
+    "revision": "507c3a23f87ee1560ad62c7ce8139e1b",
+    "url": "/static/media/quoraLogo.507c3a23.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
+    "revision": "c321c50661577962a1d961149501a6ee",
+    "url": "/static/media/stanfordLogo.c321c506.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
