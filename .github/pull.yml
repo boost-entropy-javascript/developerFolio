@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: null:master
+    upstream: saadpasta:master
     mergeMethod: merge
     mergeUnstable: true
