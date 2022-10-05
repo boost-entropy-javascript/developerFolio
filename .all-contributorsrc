@@ -435,7 +435,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55500003?v=4",
       "profile": "https://redheadphone.github.io/",
       "contributions": [
-        "code"
+        "code",
+        "bug"
       ]
     },
     {
@@ -551,6 +552,15 @@
       "name": "Njong Emy",
       "avatar_url": "https://avatars.githubusercontent.com/u/81039882?v=4",
       "profile": "https://github.com/Njong392",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "IAmTamal",
+      "name": "Tamal Das ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72851613?v=4",
+      "profile": "https://tamal.vercel.app/",
       "contributions": [
         "doc"
       ]
